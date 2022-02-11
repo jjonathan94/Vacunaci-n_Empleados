@@ -45,7 +45,7 @@
 1. Estructura del proyecto:
   
     Navegador         |
-      ↓   ↑           |
+      ↓   ↑           |Estructura del proyecto
     Componentes       |
     Administrador     |
     {Login, Insertar, Actualizar, Listar, Eliminar}|
