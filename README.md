@@ -43,10 +43,10 @@
 ## Front End  
 ### Proceso de contrucción:  
 1. Estructura del proyecto:  
-    
-      Navegador                                     |
-        ↓   ↑                                       |
-      Componentes                                   |  
+   
+    Navegador   |
+      ↓   ↑     |
+    Componentes |  
       Administrador                                 |
     {Login, Insertar, Actualizar, Listar, Eliminar} |
     Empleados {Login, Actualizar, Listar}           |
