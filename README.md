@@ -44,14 +44,13 @@
 ### Proceso de contrucción:  
 1. Estructura del proyecto:
 
-                             Navegador
-                               ↓   ↑ 
-                            Componentes
-    Administrador{Login, Insertar,   |  Empleados {Login, Actualizar,
-                  Actualizar,        |             Listar} 
-                  Listar, Eliminar}  |  
-                                   ↓   ↑ 
-                           SpringBoot RestAPIs   
+    Navegador
+      ↓   ↑ 
+    Componentes
+    Administrador{Login, Insertar, Actualizar, Listar, Eliminar}
+    Empleados {Login, Actualizar, Listar}
+      ↓   ↑ 
+    SpringBoot RestAPIs   
 
 ### Proceso de ejecución:
 1. Se clona el proyecto del repositorio de GitHub
