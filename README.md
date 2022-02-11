@@ -8,13 +8,13 @@
   
 ## Arquitectura de la Aplicación  
   
-Navegador   |
-  ↓   ↑     |
-React.js    |
-  ↓   ↑     |Arquitectura FullStack
-SpringBoot  |
-  ↓   ↑     |
-PostgreSQL  |
+    Navegador   |
+      ↓   ↑     |
+    React.js    |
+      ↓   ↑     |Arquitectura FullStack
+    SpringBoot  |
+      ↓   ↑     |
+    PostgreSQL  |
                 
 ## Back End  
 ### Proceso de contrucción:  
