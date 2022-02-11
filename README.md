@@ -20,13 +20,13 @@
 ### Proceso de contrucción:  
 1. Se presenta el diseño de la aplicación    
    
-     Empleado Model      |
-         ↓   ↑           |
-  Empleado Respository   |
-         ↓   ↑           |SpringBoot Application
-     Empleado Rest       |
-         ↓   ↑           | 
-       PostgreSQL        |
+       Empleado Model      |
+           ↓   ↑           |
+    Empleado Respository   |
+           ↓   ↑           |SpringBoot Application
+       Empleado Rest       |
+           ↓   ↑           | 
+         PostgreSQL        |
        
 2. Ya definida la arquitectura y el diseño de la aplicación se crea el proyecto 'vacunacion-empleados'.
 3. Se configura la base de datos en PostgreSQL y se define los roles de administrador y empleado.
