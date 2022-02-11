@@ -44,10 +44,10 @@
 ### Proceso de contrucción:  
 1. Estructura del proyecto:
   
-    Navegador         |
-      ↓   ↑           |Estructura del proyecto
-    Componentes       |
-    Administrador     |
+      Navegador         |
+        ↓   ↑           |Estructura del proyecto
+      Componentes       |
+      Administrador     |
     {Login, Insertar, Actualizar, Listar, Eliminar}|
     Empleados {Login, Actualizar, Listar}|
       ↓   ↑ |
