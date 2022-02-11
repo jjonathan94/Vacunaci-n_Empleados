@@ -6,12 +6,12 @@
   Email: jhonledesma94@gmail.com  
   Celular: 0995541822  
   
-## Arquitectura de la Aplicacion  
+## Arquitectura de la Aplicación  
   
     Navegador   |
       ↓   ↑     |
      React.js   |
-      ↓   ↑     |  Arquitectura FullStack
+      ↓   ↑     |Arquitectura FullStack
    SpringBoot   |
       ↓   ↑     |
    PostgreSQL   |
@@ -23,7 +23,7 @@
      Empleado Model      |
          ↓   ↑           |
   Empleado Respository   |
-         ↓   ↑           |#### SpringBoot Application
+         ↓   ↑           |SpringBoot Application
      Empleado Rest       |
          ↓   ↑           | 
        PostgreSQL        |
