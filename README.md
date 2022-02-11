@@ -1,2 +1,2 @@
-# Vacunaci-n_Empleados
+# Vacunación_Empleados
 Reto Kruger - Prueba Técnica
