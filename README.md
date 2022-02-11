@@ -6,7 +6,7 @@
   Email: jhonledesma94@gmail.com  
   Celular: 0995541822  
   
-##Arquitectura de la Aplicacion  
+## Arquitectura de la Aplicacion  
   
     Navegador   |
       ↓   ↑     |
@@ -16,16 +16,14 @@
       ↓   ↑     |
    PostgreSQL   |
                 
-##Back End  
-###Proceso de contrucción:  
-1. Se presenta el diseño de la aplicación  
-
-   ####SpringBoot Application  
+## Back End  
+### Proceso de contrucción:  
+1. Se presenta el diseño de la aplicación    
    
      Empleado Model      |
          ↓   ↑           |
   Empleado Respository   |
-         ↓   ↑           |
+         ↓   ↑           |#### SpringBoot Application
      Empleado Rest       |
          ↓   ↑           | 
        PostgreSQL        |
@@ -38,12 +36,12 @@
 7. Posteriormente se impelementan los Controller para el CRUD RestAPI.
 8. Adicionalemnte se implementa la congiguración Swagger en donde se implementa un Docket para la documentación de las APIs
 
-###Proceso de ejecución:
+### Proceso de ejecución:
 1. Una vez cargado el proyecto 'vacunacion-empleados' en SpringTools se ejecuta la aplicación.
 2. Ya ejecutada la aplicación se puede acceder a la documentación de las APIs mediante la siguiente URL: http://localhost:8080/swagger-ui.html#/
 
-##Front End  
-###Proceso de contrucción:  
+## Front End  
+### Proceso de contrucción:  
 1. Estructura del proyecto:
 
                              Navegador
@@ -55,7 +53,7 @@ Administrador{Login, Insertar,   |  Empleados {Login, Actualizar,
                                ↓   ↑ 
                         SpringBoot RestAPIs   
 
-###Proceso de ejecución:
+### Proceso de ejecución:
 1. Se clona el proyecto del repositorio de GitHub
 2. Luego abrimos el editor de texto con: 'code .' desde la carpeta donde se ubica el proyecto mediante la terminal.
 3. Y para ejecuta se diga el siguiente comando mediante la terminal: 'npm start'
