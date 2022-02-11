@@ -42,8 +42,8 @@
 
 ## Front End  
 ### Proceso de contrucción:  
-1. Estructura del proyecto:
-  
+1. Estructura del proyecto:  
+   
       Navegador         |
         ↓   ↑           |Estructura del proyecto
       Componentes       |
