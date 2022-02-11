@@ -20,13 +20,13 @@
 ### Proceso de contrucción:  
 1. Se presenta el diseño de la aplicación    
    
-      Empleado Model        |
-           ↓   ↑            |
+        Empleado Model      |
+            ↓   ↑           |
       Empleado Respository  |
            ↓   ↑            |SpringBoot Application
-      Empleado Rest         |
+        Empleado Rest       |
            ↓   ↑            | 
-      PostgreSQL            |
+        PostgreSQL          |
        
 2. Ya definida la arquitectura y el diseño de la aplicación se crea el proyecto 'vacunacion-empleados'.
 3. Se configura la base de datos en PostgreSQL y se define los roles de administrador y empleado.
@@ -47,11 +47,11 @@
                              Navegador
                                ↓   ↑ 
                             Componentes
-Administrador{Login, Insertar,   |  Empleados {Login, Actualizar,
-              Actualizar,        |             Listar} 
-              Listar, Eliminar}  |  
-                               ↓   ↑ 
-                        SpringBoot RestAPIs   
+    Administrador{Login, Insertar,   |  Empleados {Login, Actualizar,
+                  Actualizar,        |             Listar} 
+                  Listar, Eliminar}  |  
+                                   ↓   ↑ 
+                           SpringBoot RestAPIs   
 
 ### Proceso de ejecución:
 1. Se clona el proyecto del repositorio de GitHub
