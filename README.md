@@ -22,7 +22,7 @@
    
         Empleado Model      |
             ↓   ↑           |
-      Empleado Respository  |
+        Empleado Respository|
            ↓   ↑            |SpringBoot Application
         Empleado Rest       |
            ↓   ↑            | 
