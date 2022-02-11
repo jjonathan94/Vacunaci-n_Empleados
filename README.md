@@ -46,7 +46,7 @@
     
       Navegador                                     |
         ↓   ↑                                       |
-      Componentes                                   |
+      Componentes                                   |  
       Administrador                                 |
     {Login, Insertar, Actualizar, Listar, Eliminar} |
     Empleados {Login, Actualizar, Listar}           |
