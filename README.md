@@ -44,10 +44,11 @@
 ### Proceso de contrucción:  
 1. Estructura del proyecto:
 
-    Navegador |
-      ↓   ↑   |
-    Componentes|
-    Administrador{Login, Insertar, Actualizar, Listar, Eliminar}|
+    Navegador         |
+      ↓   ↑           |
+    Componentes       |
+    Administrador     |
+    {Login, Insertar, Actualizar, Listar, Eliminar}|
     Empleados {Login, Actualizar, Listar}|
       ↓   ↑ |
     SpringBoot RestAPIs|
