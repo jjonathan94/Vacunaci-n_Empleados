@@ -16,14 +16,16 @@
       ↓   ↑     |
    PostgreSQL   |
                 
-##Back End
-###Proceso de contrucción:
-1. Se presenta el diseño de la aplicación
-    
+##Back End  
+###Proceso de contrucción:  
+1. Se presenta el diseño de la aplicación  
+
+   ####SpringBoot Application  
+   
      Empleado Model      |
          ↓   ↑           |
   Empleado Respository   |
-         ↓   ↑           |  SpringBoot Application
+         ↓   ↑           |
      Empleado Rest       |
          ↓   ↑           | 
        PostgreSQL        |
@@ -40,8 +42,8 @@
 1. Una vez cargado el proyecto 'vacunacion-empleados' en SpringTools se ejecuta la aplicación.
 2. Ya ejecutada la aplicación se puede acceder a la documentación de las APIs mediante la siguiente URL: http://localhost:8080/swagger-ui.html#/
 
-##Front End
-###Proceso de contrucción:
+##Front End  
+###Proceso de contrucción:  
 1. Estructura del proyecto:
 
                              Navegador
