@@ -1,13 +1,13 @@
-# Inventario de vacunación de empleados
-  -Reto Kruger - Prueba Técnica
-  -Este proyecto es una aplicación empresarial que permitirá llevar un registro del inventario del estado de vacunación de los empleados.
-  -
-  -Desarrolador por Rafael Jiménez
-  -Email: jhonledesma94@gmail.com
-  -Celular: 0995541822
--
-##Arquitectura de la Aplicacion
--
+# Inventario de vacunación de empleados  
+  Reto Kruger - Prueba Técnica  
+  Este proyecto es una aplicación empresarial que permitirá llevar un registro del inventario del estado de vacunación de los empleados.  
+    
+  Desarrolador por Rafael Jiménez  
+  Email: jhonledesma94@gmail.com  
+  Celular: 0995541822  
+  
+##Arquitectura de la Aplicacion  
+  
     Navegador   |
       ↓   ↑     |
      React.js   |
@@ -15,7 +15,7 @@
    SpringBoot   |
       ↓   ↑     |
    PostgreSQL   |
--                
+                
 ##Back End
 ###Proceso de contrucción:
 1. Se presenta el diseño de la aplicación
